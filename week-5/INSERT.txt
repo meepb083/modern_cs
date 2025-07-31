@@ -1,0 +1,11 @@
+INSERT
+-INSERT INTO `profile` (`id_student`, `fname`, `lname`, `major`) 
+  VALUES ('4562', 'เอ', 'เอ', 'วิทยาการคอมพิวเตอร์')
+-INSERT INTO `profile` (`id_student`, `fname`, `lname`, `major`) 
+  VALUES ('4562', 'บี', 'บี', 'ชีววิทยา')
+-INSERT INTO `profile` (`id_student`, `fname`, `lname`, `major`) 
+   VALUES ('4562', 'ซี', 'ซี', 'เคมี')
+
+Delete
+
+Update
